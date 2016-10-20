@@ -1,38 +1,31 @@
-[中文文档](https://github.com/XX-net/XX-Net/wiki/%E4%B8%AD%E6%96%87%E6%96%87%E6%A1%A3)
-
-[English Home](https://github.com/XX-net/XX-Net/wiki/English-Home-Page)  
-
-[فارسی صفحه اصلی](https://github.com/XX-net/XX-Net/wiki/Persian-home-page)
-
-
-XX-Net  
+XX-Net
 =================
-翻墙工具套件
-* GAE proxy, 稳定、易用、快速   
-* Web界面，人性化交互  
+* XX-Net is a free desktop application that delivers fast, reliable and secure access to the open Internet for users in censored regions. It uses google app engine (GAE) as a proxy server through the firewall.
 
 
-## 下载(Download)：
-测试版(Test)：
-https://codeload.github.com/XX-net/XX-Net/zip/2.9.2
+Wiki
+-----
+* [中文文档](https://github.com/XX-net/XX-Net/wiki/%E4%B8%AD%E6%96%87%E6%96%87%E6%A1%A3)
 
-稳定版(Stable)：
-https://codeload.github.com/XX-net/XX-Net/zip/2.8.9
+* [English Home](https://github.com/XX-net/XX-Net/wiki/English-Home-Page)
 
-懒人集成浏览器版（Easy Browser Bundle）:
-https://github.com/yeahwu/firefox-xx
+* [فارسی صفحه اصلی](https://github.com/XX-net/XX-Net/wiki/Persian-home-page)
 
 
-
-## 链接
-|   |   |
-| --------   | :----  |
-|使用方法：|https://github.com/XX-net/XX-Net/wiki/使用方法|
-|更新历史：|https://github.com/XX-net/XX-Net/wiki/更新历史|
-|问题报告:  |https://github.com/XX-net/XX-Net/issues|
-|讨论群:  |https://groups.google.com/forum/#!forum/xx-net|
+Downloads
+---------
+* [__Download page__](https://github.com/XX-net/XX-Net/blob/master/code/default/download.md)
 
 
-## 如何帮助项目
-https://github.com/XX-net/XX-Net/wiki/How-to-contribute
+Links
+------
+* Usage :  https://github.com/XX-net/XX-Net/wiki/How-to-use
 
+* Update :  https://github.com/XX-net/XX-Net/wiki/How-to-update
+
+* Issues :  https://github.com/XX-net/XX-Net/issues?q=sort:updated-desc+is:open
+
+
+Help
+-----
+* https://github.com/XX-net/XX-Net/wiki/How-to-contribute
